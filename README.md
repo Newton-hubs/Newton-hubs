@@ -165,5 +165,3 @@ Claude API, Ollama, Mistral, LLM-assisted workflows, AI-generated summaries, det
 - **Live production application:** [https://ips.iiap.res.in](https://ips.iiap.res.in)
 
 ---
-
-*The projects in this profile are independent public implementations demonstrating related engineering concepts and technical interests. The IPS production application is publicly accessible, but its source code, database, internal configuration, and operational data are proprietary.*
