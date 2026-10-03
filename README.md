@@ -7,9 +7,9 @@ Full-stack software engineer (Python, Django, FastAPI, React) with ~2.5 years of
 - Work with Celery + Redis pipelines, REST APIs, React interfaces, and on-premise LLM workflows (Ollama).
 
 ## Projects
-- **[Fitness Studio Booking API](link)**: FastAPI + PostgreSQL booking system that prevents double-booking under concurrent requests.
-- **[Astro Time Machine](link)**: explore the sky from any place and time, with Claude-powered narration and fallbacks when the AI is down.
-- **[FastCRUD fix](link)**: open-source fix for a SQLAlchemy inheritance issue.
+- **[Fitness Studio Booking API](https://github.com/Newton-hubs/Booking-API)**: FastAPI + PostgreSQL booking system that prevents double-booking under concurrent requests.
+- **[Astro Time Machine](https://github.com/Newton-hubs/Astro-time-machine)**: explore the sky from any place and time, with Claude-powered narration and fallbacks when the AI is down.
+- **[FastCRUD fix](https://github.com/benavlabs/fastcrud/pull/330)**: open-source fix for a SQLAlchemy inheritance issue.
 
 ## Skills
 Python · Django · DRF · FastAPI · React · PostgreSQL · Redis · Celery · Docker · Claude API · Ollama · TypeScript (learning)
